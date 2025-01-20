@@ -1,2 +1,2 @@
 Leo Bakšaj
-Ddoani tekst u vježbi 
+Dodan tekst u vježbi! 
